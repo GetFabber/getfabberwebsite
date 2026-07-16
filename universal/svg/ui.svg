@@ -1,0 +1,50 @@
+<svg id="ui" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <!-- Previous track -->
+  <symbol id="previoustrack-background" viewbox="0 0 64 64">
+    <path d="M0,0v64h64V0H0z M40,38l-10-6v6l-10-6l10-6v6l10-6V38z"/>
+  </symbol>
+
+  <symbol id="previoustrack-icon" viewbox="0 0 64 64">
+    <path d="M30,32l10,6V26L30,32z M20,32l10,6v-6v-6L20,32z"/>
+  </symbol>
+
+  <!-- Play -->
+  <symbol id="play-background" viewbox="0 0 64 64">
+    <path d="M0,0v64h64V0H0z M28,39V25l13,7L28,39z"/>
+  </symbol>
+
+  <symbol id="play-icon" viewbox="0 0 64 64">
+    <polygon points="28,25 41,32 28,39 "/>
+  </symbol>
+
+  <!-- Pause -->
+  <symbol id="pause-background" viewbox="0 0 64 64">
+    <path d="M0,0v64h64V0H0z M30,40h-4V24h4V40z M38,40h-4V24h4V40z"/>
+  </symbol>
+
+  <symbol id="pause-icon" viewbox="0 0 64 64">
+    <path d="M26,40h4V24h-4V40z M34,24v16h4V24H34z"/>
+  </symbol>
+
+  <!-- Next track -->
+  <symbol id="nexttrack-background" viewbox="0 0 64 64">
+    <path d="M0,0v64h64V0H0z M34,38v-6l-10,6V26l10,6v-6l10,6L34,38z"/>
+  </symbol>
+
+  <symbol id="nexttrack-icon" viewbox="0 0 64 64">
+    <path d="M24,38l10-6l-10-6V38z M44,32l-10-6v6v6L44,32z"/>
+  </symbol>
+
+  <!-- Close -->
+  <symbol id="close" viewbox="0 0 64 64">
+    <line fill="none" stroke-width="2" stroke-miterlimit="10" x1="4" y1="4" x2="28" y2="28"/>
+    <line fill="none" stroke-width="2" stroke-miterlimit="10" x1="28" y1="4" x2="4" y2="28"/>
+  </symbol>
+
+  <!-- Map marker -->
+  <!--<symbol id="mapmarker" viewbox="0 0 64 64">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12,32c0,0-12-9.8-12-20C0,5.4,5.4,0,12,0c6.6,0,12,5.4,12,12
+      C24,22.2,12,32,12,32z"/>
+    <circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="12" cy="12" r="4.5"/>
+  </symbol>-->
+</svg>
